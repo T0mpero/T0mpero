@@ -1,4 +1,12 @@
-## Hi there 👋
+## Desenvolvedor Back-End Iniciante 🌱 | Aprendendo e Explorando Novas Tecnologias
+Olá! Sou um desenvolvedor back-end em início de carreira, apaixonado por aprender e criar soluções eficientes para problemas complexos. Estou focado em aprimorar minhas habilidades em:
+
+## Linguagens: JavaScript (Node.js), e PHP.
+## Bancos de Dados: MySQL, MongoDB.
+Controle de Versão: Git & GitHub.
+Atualmente, estou explorando projetos práticos e desafios de back-end para fortalecer meu entendimento de arquitetura de software e boas práticas. Acompanhe meu progresso enquanto busco novas maneiras de transformar ideias em código escalável e funcional!
+
+
 
 <!--
 **T0mpero/T0mpero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
