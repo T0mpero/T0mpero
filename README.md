@@ -19,3 +19,6 @@ Sou um desenvolvedor back-end em início de carreira, apaixonado por aprender e 
 
 
 Atualmente, estou explorando projetos práticos e desafios de back-end para fortalecer meu entendimento de arquitetura de software e boas práticas. Acompanhe meu progresso enquanto busco novas maneiras de transformar ideias em código escalável e funcional!
+
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T0mpero&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
